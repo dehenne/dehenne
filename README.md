@@ -42,8 +42,8 @@ Since I am a strong believer of the open source idea, the basic system of QUIQQE
 
 - [PCSG OHG](https://pcsg.de)
 - [NameRobot GmbH](https://www.namerobot.com)
-- still secret
-- still secret
+- DinnerClash Eatertainment UG
+
 
 👷 Products / Co Founder
 ------
@@ -59,14 +59,15 @@ Since I am a strong believer of the open source idea, the basic system of QUIQQE
 - [Steemit Holmes](https://www.steemit-holmes.com/)
 - [Marble Cards Info](https://www.marble-cards.info/)
 
+
 🧑‍🏭 Projects I support and I am involved in
 ------
 
 - [neXGam](https://www.nexgam.de)
 - [justletters](https://www.justletters.de)
-- [app for Words](https://www.appsforwords.com/)
 
 If you want to know what else my development company does: https://www.pcsg.de/Referenzen
+
 
 📱 Apps & Plugins
 ------
@@ -76,6 +77,15 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 - [Startup Promotion List](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
 - [Steemoji - Easy Emojis for Steemit](https://chrome.google.com/webstore/detail/oglhmgjoechnljijaoedcgjgjmeladgf)
 - [DTube Share](https://chrome.google.com/webstore/detail/mmbblkbmnnacplngkbmfkogbdonjjade)
+- [a! Rhymes](https://www.appsforwords.com/Apps/Rhymes)
+- [a! Domain Check](https://www.appsforwords.com/Apps/Domaincheck)
+- [a! Fantasy Names](https://www.appsforwords.com/Apps/Fantasynames)
+- [a! Multi-Languages Translator](https://www.appsforwords.com/Apps/Multi-Language-Translator)
+- [a! Patchword](https://www.appsforwords.com/Apps/Patchword)
+- [a! Swear Words Check](https://www.appsforwords.com/Apps/Swear-Words-Check)
+- [a! Trademark Search](https://www.appsforwords.com/Apps/Trademark-Search)
+- [a! Words in Words](appsforwords.com/Apps/Words-in-Words)
+
 
 🙏 Support
 ------
