@@ -94,3 +94,6 @@ If you want to support me please do so via the PCSG funding. By doing so you sup
 
 - https://github.com/sponsors/pcsg
 - https://www.buymeacoffee.com/QUIQQER
+
+
+![](https://stats.pcsg-server.de/matomo.php?idsite=50&amp;rec=1)
