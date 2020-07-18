@@ -2,7 +2,7 @@ About me
 ======
 
 My name is Henning. Most people just call me `Hen` or `de henne`. You can do that too :wink:
-I like to build products, startups, services or e-commerce shops. Therefore I am also co-founder of some companies and services.
+I like to build products, startups, services, or e-commerce shops. Therefore I am also co-founder of some companies and services.
 
 💬 Social
 ------
@@ -17,17 +17,17 @@ You can usually find me at:
 ❤️ QUIQQER
 ------
 
-[QUIQQER](https://www.quiqqer.com) is the all around carefree Enterprise Content Management System. I have been developing QUIQQER with my colleague for over 10 years. 
+[QUIQQER](https://www.quiqqer.com) is the all-around carefree Enterprise Content Management System. I have been developing QUIQQER with my colleague for over 10 years. 
 
 The goal of QUIQQER is to get a SaaS or e-commerce shop up and running in minutes and go for it.
-Whether it is an invoicing system, an ordering system, a merchandise management system, a membership system, an e-commerce shop or a simple website, with QUIQQER this is now possible.
+Whether it is an invoicing system, an ordering system, a merchandise management system, a membership system, an e-commerce shop, or a simple website, with QUIQQER this is now possible.
 
-Since I am a strong believer of the open source idea, the basic system of QUIQQER is free and open source.
+Since I am a strong believer in the open-source idea, the basic system of QUIQQER is free and open source.
 
 👨‍🎓 Knowledge
 ------
 
-- 20 years programming experience
+- 20 years of programming experience
 - JavaScript, NodeJs, ES6
 - PHP
 - MySQL, Maria DB, PostgreSQL
@@ -37,7 +37,7 @@ Since I am a strong believer of the open source idea, the basic system of QUIQQE
 - Blockchain Knowledge
 
 
-👨‍💼 Companies / Co Founder
+👨‍💼 Companies / Co-Founder
 ------
 
 - [PCSG OHG](https://pcsg.de)
@@ -45,7 +45,7 @@ Since I am a strong believer of the open source idea, the basic system of QUIQQE
 - DinnerClash Eatertainment UG
 
 
-👷 Products / Co Founder
+👷 Products / Co-Founder
 ------
 
 - [QUIQQER](https://www.quiqqer.com)
