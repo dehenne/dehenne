@@ -74,7 +74,6 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 ------
 
 - [Marble.Cards Extension](https://github.com/pcsg/marble-cards-browser-extension)
-- [Lets Go Evolution](https://play.google.com/store/apps/details?id=de.pcsg.letsgoevolution&hl=de)
 - [Startup Promotion List](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
 - [Steemoji - Easy Emojis for Steemit](https://chrome.google.com/webstore/detail/oglhmgjoechnljijaoedcgjgjmeladgf)
 - [DTube Share](https://chrome.google.com/webstore/detail/mmbblkbmnnacplngkbmfkogbdonjjade)
@@ -86,6 +85,11 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 - [a! Swear Words Check](https://www.appsforwords.com/Apps/Swear-Words-Check)
 - [a! Trademark Search](https://www.appsforwords.com/Apps/Trademark-Search)
 - [a! Words in Words](appsforwords.com/Apps/Words-in-Words)
+
+😞 Aborted
+------
+
+- Lets Go Evolution (Pokemon Dex)
 
 
 🙏 Support
