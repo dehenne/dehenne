@@ -58,6 +58,7 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 - [my.eListing](https://www.my-elisting.com)
 - [Steemit Holmes](https://www.steemit-holmes.com/)
 - [Marble Cards Info](https://www.marble-cards.info/)
+- [Web-Dynamic](https://www.web-dynamic.de/)
 
 
 🧑‍🏭 Projects I support and I am involved in
