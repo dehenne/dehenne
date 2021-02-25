@@ -43,6 +43,7 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 - [PCSG OHG](https://pcsg.de)
 - [NameRobot GmbH](https://www.namerobot.com)
 - DinnerClash Eatertainment UG
+- ToadTec UG
 
 
 👷 Products / Co-Founder
