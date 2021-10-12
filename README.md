@@ -34,7 +34,7 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 - HTML, CSS
 - Bash, Shell Scripting
 - Unix / Linux
-- Blockchain Knowledge
+- Blockchain + NFT Knowledge
 
 
 👨‍💼 Companies / Co-Founder
@@ -42,14 +42,16 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 
 - [PCSG OHG](https://pcsg.de)
 - [NameRobot GmbH](https://www.namerobot.com)
-- DinnerClash Eatertainment UG
-- ToadTec UG
+- [DinnerClash Eatertainment UG](https://www.dinnerclash.de)
+- [ToadTec UG](https://toadtec.com)
 
 
 👷 Products / Co-Founder
 ------
 
 - [QUIQQER](https://www.quiqqer.com)
+- [Marble Cards Info](https://www.marble-cards.info)
+- [Degen Score](https://www.nft-degen-score.com)
 - [NameRobot Toolbox](https://www.namerobot.de/toolbox)
 - [Namefruits](https://www.namefruits.com)
 - [NameScore](https://www.namescore.io)
@@ -57,8 +59,6 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 - [Startup Promotion List](https://startup-promotion-list.quiqqer.com)
 - [NerdSpot](https://www.nerdspot.events)
 - [my.eListing](https://www.my-elisting.com)
-- [Steemit Holmes](https://www.steemit-holmes.com/)
-- [Marble Cards Info](https://www.marble-cards.info/)
 - [Web-Dynamic](https://www.web-dynamic.de/)
 
 
@@ -91,6 +91,8 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 ------
 
 - Lets Go Evolution (Pokemon Dex)
+- Steemit Holmes
+- SteemPunkNet
 
 
 🙏 Support
@@ -99,7 +101,6 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 If you want to support me please do so via the PCSG funding. By doing so you support not only me but also my projects and colleagues.
 
 - https://github.com/sponsors/pcsg
-- https://www.buymeacoffee.com/QUIQQER
 
 
 ![](https://stats.pcsg-server.de/matomo.php?idsite=50&amp;rec=1)
