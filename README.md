@@ -9,8 +9,10 @@ I like to build products, startups, services, or e-commerce shops. Therefore I a
 
 You can usually find me at:
 
-- 🐦 [Twitter](https://twitter.com/de_henne)
-- *I am not so active with all other social media things*
+- 🐦 [Twitter / X - Crypto + NFTs](https://twitter.com/MarbleCardsInfo)
+- 🐦 [Twitter / X - private](https://twitter.com/de_henne)
+- *I am not so active at other socialmedia things*
+
 
 ❤️ QUIQQER
 ------
@@ -47,26 +49,36 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 👷 Products / Co-Founder
 ------
 
+Major projects
+
 - [QUIQQER](https://www.quiqqer.com)
 - [ecoyn](https://www.ecoyn.shop)
-- [MarbleClash](https://www.marbleclash.cards)
-- [Marble Cards Info](https://www.marble-cards.info)
-- [Degen Score](https://www.nft-degen-score.com)
+
+Minor projects
+
 - [NameRobot Toolbox](https://www.namerobot.de/toolbox)
 - [Namefruits](https://www.namefruits.com)
 - [NameScore](https://www.namescore.io)
 - [NameRobot Tools](https://tools.namerobot.com)
+
+Side Projects
+
+- [MarbleClash](https://www.marbleclash.cards)
+- [MarbleCards Rarity Score](https://rarity.marble.cards)
+- [Marble Cards Info](https://www.marble-cards.info)
+- [Degen Score](https://www.nft-degen-score.com)
 - [NerdSpot](https://www.nerdspot.events)
 - [Startup Promotion List](https://startup-promotion-list.quiqqer.com)
 - [my.eListing](https://www.my-elisting.com)
 - [Walking Family](https://www.walking-family.de)
-
+- MemeHeadz (Coming soon)
+- MarbleCards Printing Service (Coming soon)
 
 🧑‍🏭 Projects I support and I am involved in
 ------
 
+- [Freemom](https://www.freemom.de)
 - [MarbleCards](https://marble.cards)
-- [neXGam](https://www.nexgam.de)
 
 If you want to know what else my development company does: https://www.pcsg.de/Referenzen
 
@@ -75,7 +87,6 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 ------
 
 - [Marble.Cards Extension](https://github.com/pcsg/marble-cards-browser-extension)
-- [Startup Promotion List](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
 - [a! Rhymes](https://www.appsforwords.com/Apps/Rhymes)
 - [a! Domain Check](https://www.appsforwords.com/Apps/Domaincheck)
 - [a! Fantasy Names](https://www.appsforwords.com/Apps/Fantasynames)
@@ -88,18 +99,22 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 😞 Aborted
 ------
 
+- [Startup Promotion List](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
 - Lets Go Evolution (Pokemon Dex)
 - Steemit Holmes
 - SteemPunkNet
 - DTube Share
 - Steemoji - Easy Emojis for Steemit
 
+
 🙏 Support
 ------
 
-If you want to support me please do so via the PCSG funding. By doing so you support not only me but also my projects and colleagues.
+- Do you want to support me? 
+- You have a project idea and need help implementing it?
+- You would like to start a crypto project?
+- You would like to bring an e-commerce store online?
 
-- https://github.com/sponsors/pcsg
-
+Feel free to send me a message on Twitter.
 
 ![](https://stats.pcsg-server.de/matomo.php?idsite=50&amp;rec=1)
