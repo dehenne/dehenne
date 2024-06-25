@@ -9,8 +9,7 @@ I like to build products, startups, services, or e-commerce shops. Therefore I a
 
 You can usually find me at:
 
-- 🐦 [Twitter / X - Crypto + NFTs](https://twitter.com/MarbleCardsInfo)
-- 🐦 [Twitter / X - private](https://twitter.com/de_henne)
+- 🐦 [X](https://twitter.com/de_henne)
 - *I am not so active at other socialmedia things*
 
 
