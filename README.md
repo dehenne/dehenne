@@ -9,7 +9,7 @@ I like to build products, startups, services, or e-commerce shops. Therefore I a
 
 You can usually find me at:
 
-- 🐦 [X](https://twitter.com/de_henne)
+- 🐦 [X](https://x.com/de_henne)
 - *I am not so active at other socialmedia things*
 
 
@@ -63,15 +63,14 @@ Minor projects
 
 Side Projects
 
-- [MarbleClash](https://www.marbleclash.cards)
+- [Walking Family](https://www.walking-family.de)
 - [MarbleCards Rarity Score](https://rarity.marble.cards)
+- [MarbleClash](https://www.marbleclash.cards)
 - [Marble Cards Info](https://www.marble-cards.info)
+- [MarbleCards Printing Service](https://print.marbleclash.cards/)
 - [Degen Score](https://www.nft-degen-score.com)
 - [NerdSpot](https://www.nerdspot.events)
-- [Startup Promotion List](https://startup-promotion-list.quiqqer.com)
 - [my.eListing](https://www.my-elisting.com)
-- [Walking Family](https://www.walking-family.de)
-- [MarbleCards Printing Service](https://print.marbleclash.cards/)
 - MemeHeadz (Coming soon)
 
 🧑‍🏭 Projects I support and I am involved in
@@ -116,6 +115,6 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 - You would like to start a crypto project?
 - You would like to bring an e-commerce store online?
 
-Feel free to send me a message on Twitter.
+Feel free to send me a message on X.
 
 ![](https://stats.pcsg-server.de/matomo.php?idsite=50&amp;rec=1)
