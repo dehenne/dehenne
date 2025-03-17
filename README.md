@@ -55,9 +55,10 @@ Major projects
 
 Minor projects
 
-- [NameRobot Toolbox](https://www.namerobot.de/toolbox)
-- [Namefruits](https://www.namefruits.com)
 - [NameScore](https://www.namescore.io)
+- [Namefruits](https://www.namefruits.com)
+- [NameRobot Toolbox](https://www.namerobot.de/toolbox)
+- [NameRobot Fun Nickname generators](https://fun.namerobot.com)
 - [NameRobot Tools](https://tools.namerobot.com)
 
 Side Projects
@@ -70,12 +71,13 @@ Side Projects
 - [Startup Promotion List](https://startup-promotion-list.quiqqer.com)
 - [my.eListing](https://www.my-elisting.com)
 - [Walking Family](https://www.walking-family.de)
+- [MarbleCards Printing Service](https://print.marbleclash.cards/)
 - MemeHeadz (Coming soon)
-- MarbleCards Printing Service (Coming soon)
 
 🧑‍🏭 Projects I support and I am involved in
 ------
 
+- [wiple](https://wiple.com/)
 - [Freemom](https://www.freemom.de)
 - [MarbleCards](https://marble.cards)
 
