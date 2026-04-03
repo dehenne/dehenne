@@ -10,31 +10,30 @@ I like to build products, startups, services, or e-commerce shops. Therefore I a
 You can usually find me at:
 
 - 🐦 [X](https://x.com/de_henne)
-- *I am not so active at other socialmedia things*
+- 📌 [LinkedIn](https://www.linkedin.com/in/de-henne/)
 
 
 ❤️ QUIQQER
 ------
 
-[QUIQQER](https://www.quiqqer.com) is the all-around carefree Enterprise Content Management System. I have been developing QUIQQER with my colleague for over 10 years. 
+[QUIQQER](https://www.quiqqer.com) is a free open-source framework for SaaS, e-commerce, and business applications.
 
-The goal of QUIQQER is to get a SaaS or e-commerce shop up and running in minutes and go for it.
-Whether it is an invoicing system, an ordering system, a merchandise management system, a membership system, an e-commerce shop, or a simple website, with QUIQQER this is now possible.
+I have been developing QUIQQER together with our Team for more than 10 years. 
+Over time, it has grown from a CMS into a modular platform for building and running digital products on a solid, extensible foundation.
 
-Since I am a strong believer in the open-source idea, the basic system of QUIQQER is free and open source.
+Whether you want to launch a SaaS product, an online shop, a membership platform, an invoicing or ordering system, 
+or a custom business application, QUIQQER helps you move fast without relying on a fragmented tool stack.
+
+The core system is free and open source, built for developers, editors, and administrators who need flexibility, scalability, and full control.
 
 👨‍🎓 Knowledge
 ------
 
-- 20 years of programming experience
-- JavaScript, NodeJs, ES6
-- PHP
-- MySQL, Maria DB, PostgreSQL
-- HTML, CSS
-- Bash, Shell Scripting
-- Unix / Linux
-- Blockchain + NFT Knowledge
-
+- 20+ years of software development experience
+- Full-stack web development with PHP, JavaScript, Node.js, Vue.js, HTML, CSS, and modern frontend architectures
+- MySQL, MariaDB, and PostgreSQL
+- Unix/Linux, Bash, and shell scripting
+- Blockchain and related technologies
 
 👨‍💼 Companies / Co-Founder
 ------
@@ -42,7 +41,6 @@ Since I am a strong believer in the open-source idea, the basic system of QUIQQE
 - [PCSG OHG](https://pcsg.de)
 - [NameRobot GmbH](https://www.namerobot.com)
 - [ToadTec UG](https://toadtec.com)
-- [DinnerClash Eatertainment UG](https://www.dinnerclash.de)
 
 
 👷 Products / Co-Founder
@@ -61,24 +59,36 @@ Minor projects
 - [NameRobot Fun Nickname generators](https://fun.namerobot.com)
 - [NameRobot Tools](https://tools.namerobot.com)
 
+Best QUIQQER Plugins
+
+- [QUIQQER Apple Authenticator](https://dev.quiqqer.com/quiqqer/authapple)
+- [QUIQQER Google Authenticator](https://dev.quiqqer.com/quiqqer/authgoogle)
+- [QUIQQER Facebook Authenticator](https://dev.quiqqer.com/quiqqer/authfacebook)
+- [QUIQQER Linked Authenticator](https://dev.quiqqer.com/quiqqer/authlinkedin)
+- [QUIQQER AI MCP Server](https://dev.quiqqer.com/quiqqer/ai-mcp)
+- [QUIQQER Order](https://dev.quiqqer.com/quiqqer/order)
+- [QUIQQER Simple Checkout](https://dev.quiqqer.com/quiqqer/order-simple-checkout)
+- [QUIQQER Salesorders](https://dev.quiqqer.com/quiqqer/salesorders)
+- [QUIQQER Guest Order](https://dev.quiqqer.com/quiqqer/order-guestorder)
+- [QUIQQER Invoice](https://dev.quiqqer.com/quiqqer/invoice)
+- [QUIQQER Coupons](https://dev.quiqqer.com/quiqqer/coupons)
+- [QUIQQER Product Management](https://dev.quiqqer.com/quiqqer/products)
+- [QUIQQER Discount System](https://dev.quiqqer.com/quiqqer/products)
+- [QUIQQER Purchasing](https://dev.quiqqer.com/quiqqer/purchasing)
+- [QUIQQER Plans](https://dev.quiqqer.com/quiqqer/erp-plans)
+- [QUIQQER Mail Journal](https://dev.quiqqer.com/quiqqer/mail-journal)
+- and much more http://store.quiqqer.com/
+
 Side Projects
 
 - [Walking Family](https://www.walking-family.de)
-- [MarbleCards Rarity Score](https://rarity.marble.cards)
-- [MarbleClash](https://www.marbleclash.cards)
-- [Marble Cards Info](https://www.marble-cards.info)
-- [MarbleCards Printing Service](https://print.marbleclash.cards/)
-- [Degen Score](https://www.nft-degen-score.com)
 - [NerdSpot](https://www.nerdspot.events)
-- [my.eListing](https://www.my-elisting.com)
-- MemeHeadz (Coming soon)
 
 🧑‍🏭 Projects I support and I am involved in
 ------
 
 - [wiple](https://wiple.com/)
 - [Freemom](https://www.freemom.de)
-- [MarbleCards](https://marble.cards)
 
 If you want to know what else my development company does: https://www.pcsg.de/Referenzen
 
@@ -105,6 +115,14 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 - SteemPunkNet
 - DTube Share
 - Steemoji - Easy Emojis for Steemit
+- DinnerClash Eatertainment UG
+- MemeHeadz
+- MarbleCards Rarity Score
+- MarbleClash
+- Marble Cards Info
+- MarbleCards Printing Service
+- Degen Score
+- my.eListing
 
 
 🙏 Support
